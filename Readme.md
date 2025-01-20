@@ -23,6 +23,6 @@
 7. Run `make dtbs`
 
 8. Run the packaging script `./package_release.sh`
-9. Upload `ov_9281_release.tgz` to a new release
+9. Upload `~/Downloads/ov_9281_release.tgz` to a new release
 10. Profit :)
 
